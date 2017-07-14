@@ -1,0 +1,36 @@
+a {
+	text-decoration: none;
+}
+
+h3 {
+	font-weight: normal;
+}
+
+div#portfolio_media_list div.portfolio_media_wrap {
+	float: left;
+	margin-left: 20px;
+}
+
+div#portfolio_media_list div.portfolio_media_wrap h3.portfolio_media_heading {
+	margin: 0px; !important
+}
+
+div#portfolio_media_list div.portfolio_media_wrap p.portfolio_media_desc {
+	margin: 0px; !important
+}
+
+div#portfolio_media_list div.portfolio_media_wrap p.text_wrap {
+	margin-top: 5px;
+}
+
+div.clear {
+	clear: both;
+}
+
+div#portfolio_paging_wrap {
+	margin-bottom: 10px;
+}
+
+div#portfolio_media_list div.portfolio_media_wrap video, div#portfolio_media_list div.portfolio_media_wrap img  {
+	margin: 0px; !important
+}
